@@ -1,0 +1,6 @@
+{
+  "name": "Mario Cat - Cách Mạng Tháng Tám 1945",
+  "description": "Trò chơi platformer Mèo Mũ Cối tái hiện hành trình Cách Mạng Tháng Tám 1945 qua các mốc lịch sử từ Bắc Giang, Hà Nội, Huế, Sài Gòn tới Quảng trường Ba Đình.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
